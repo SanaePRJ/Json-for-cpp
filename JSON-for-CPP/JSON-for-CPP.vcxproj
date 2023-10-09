@@ -134,6 +134,7 @@
     <ClInclude Include="json.hpp" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="..\README.md" />
     <None Include="specification.md" />
     <None Include="test.json" />
   </ItemGroup>

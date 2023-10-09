@@ -30,5 +30,6 @@
   <ItemGroup>
     <None Include="test.json" />
     <None Include="specification.md" />
+    <None Include="..\README.md" />
   </ItemGroup>
 </Project>

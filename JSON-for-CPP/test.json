@@ -1,8 +1,7 @@
 {
   "SanaeProject": {
-    "JsonReader": {
       "Version": 1,
-      "Author": [ "SanaeProject" ,"Huku"]
-    }
-  }
+      "Author": [ "SanaeProject", "Huku" ],
+      "copyright": null
+   }
 }
